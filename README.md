@@ -1,2 +1,0 @@
-# FinalDevOpsProject
-TEST
