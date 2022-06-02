@@ -2,6 +2,7 @@
    String str = request.getParameter("r1");
    int num1;
    int num2;
+   int num3;
    int tot=0;
 
      num1 = Integer.parseInt(request.getParameter("num1"));
